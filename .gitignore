@@ -7,7 +7,7 @@
 .ipynb_checkpoints
 .vscode/
 checkpoint
-logs/*
+logs/*,m
 tf_logs/*
 images/**/*.png
 images/**/*.dot
